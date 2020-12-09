@@ -12,35 +12,46 @@ redirect_from:
 </div>
 
 
-Emergency response management (ERM) is a critical problem faced by communities across the globe. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, and distress calls. In prior art, as well as practice, incident forecasting and response are typically siloed by category and department, reducing effectiveness of prediction and precluding efficient coordination of resources. Further, most of these approaches are offline and fail to capture the dynamically changing environments under which critical emergency response occurs. As a consequence, statistical and algorithmic approaches to emergency response have received significant attention in the last few decades. Governments in urban areas are increasingly adopting methods that enable Smart Statistical Emergency Response, which are a combination of forecasting models and visualization tools to understand where and when incidents occur, and optimization approaches to allocate and dispatch responders. Please refer to a preprint of our [survey paper](https://arxiv.org/abs/2006.04200) for more information. 
+Smart cities are emerging as a priority for Cyber-Physical Systems (CPS) research and development across the world. Artificial Intelligence and Machine Learning algorithms have played a large part in automating and advancing city operations and aiding the development of CPS in cities. Increasingly, data-driven modeling and intelligent decision-making under uncertainty are forming the basis for advancing transportation, safety, connectivity, and health services. For example, advanced traffic solutions, improved public transportation systems, smart emergency response, energy modeling, and autonomous driving are some of the applications that have benefited from approaches to principled decision-making.
 
-We are building 'StatResp' -- an open-source integrated tool-chain to aid first responders understand where and when incidents occur, and how to allocate responders in anticipation of incidents. The historical analysis module of the toolchain is available as a public data dashboard at [dashboard.statresp.ai](https://dashboard.statresp.ai).
+There are many challenges pertaining to decision-making for CPS in smart cities. With the advent of IoT, sensor data is being generated at a pace and volume that is difficult to process and make inferences from. Further, the needs of the cities dictate that much of the processing happens on the edge, making it imperative that fast and tractable approaches to decision-making are designed. At the same time, there is a growing need for automated applications to be fair, secure, and resilient. Participants in the workshop will exchange ideas on these and allied topics, including:
 
-<b>Background</b>
 
-Our work in ERM has spanned the last six years. This project was started by a collaboration between the [Smart and Resilient Computing for Physical Environments Lab (SCOPE)](https://scope-lab.org) and the [Computational Economics Research Lab (CERL)](http://vorobeychik.com/) at Vanderbilt University, and is currently developed jointly by the [Stanford Intelligent Systems Lab (SISL)](http://sisl.stanford.edu) at Stanford and the [SCOPE Lab](https://scope-lab.org). We are thankful to the Center of Automotive Research at Stanford (CARS), the National Science Foundation (NSF), and Tennessee Department of Transportation (TDOT) for sponsoring the project. We have had the fortune of collaborating with the Tennessee Department of Transportation (TDOT), the Nashville Fire Department (MNPD) and Chattanooga City during this project. Currently, this open-source repository is a collection of forecasting, planning, and operationalization tools. We also collaborate actively with Hemant Purohit from [George Mason University](https://ist.gmu.edu/~hpurohit/informatics-lab/grants/NSF-crisis-knowledge-graph.html) to model the dynamics of crowd sourced incident data and use it in the resource allocation models. A key component of this work is a set of open source forecasting, clustering and visualization tools to aid first responders better understand the dynamics of spatial-temporal incident occurrence. 
-
-Our research has been showcased at multiple global smart city summits, won an innovation from the government technology magazine, covered in the Financial Times, and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/urbancomputing.pdf). 
-
-<br>
-
-<b>Updates</b>
-
-<ul>
-     <li> We gave a talk at the AAAI Fall Symposium on AI for Social Good about challenges in designing emergency response pipelines. See the talk here <a href="https://www.youtube.com/watch?v=i2Lggsa8iHM&feature=emb_logo">here</a>.</li>
-    <li> Our work on creating <a href="https://arxiv.org/abs/2011.05440">emergency incident detection from crowdsourced waze data using bayesian information fusion</a> has been acepted to the IEEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology.</li>
-    <li> Our work on creating <a href="https://ayanmukhopadhyay.github.io/files/aaai_erm.pdf">designing principled emergency response pipelines</a> has been acepted to the AAAI Fall Symposium Series Workshop in AI for Social Good.</li>
-    <li> Ayan gave a tutorial on Smart Emergency Response at the <a href="http://www.compsust.net/compsust-2020/">NSF Computational Sustainability Doctorial Symposium 2020</a> on October 18. See the talk <a href="https://youtu.be/5OZszP4FTlw?t=354">here</a></li> 
-    <li> Ayan gave a talk at the Utah Center for Data Science's Summer Seminar Series on the 19th of June about robust machine learning models and smart emergency response. See the poster <a href="http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf">here</a>, and listen to the talk <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&t=1143s">here</a></li>
-    <li> A pre-print of our <a href="https://arxiv.org/abs/2006.04200">survey paper</a> on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
-    <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020). </li>
-    <li> We are creating <a href="https://statresp.ai/"><b>Stat Resp</b></a>, an integrated open-source toolchain of statistical methods to aid emergency response.</li>
+<ol>
+<li><p>Forecasting and analysis for city-scale CPS:</p>
+<ol>
+<li><p>Algorithms and frameworks for solving the challenge of integrating heterogeneous and cross-domain data.</p></li>
+<li><p>Approaches for engaging communities, citizen science, and crowdsourcing, and subsequently using such uncertain and noisy information to make inferences.</p></li>
+<li><p>Predictive analytics for smart cities; using data to inform policies.</p></li>
+<li><p>Online approaches to consume streaming data generated across a multitude of devices and adapt to dynamic environments.</p></li>
+<li><p>Energy modeling and forecasting, especially under the effects of climate change.</p></li>
+</ol></li>
+<li><p>Decision-making for smart cities:</p>
+<ol>
+<li><p>Approaches to model complex decision-making tasks in smart cities and how they tackle uncertainty.</p></li>
+<li><p>Principled heuristics to design scalable decision-making in city-scale CPS.</p></li>
+<li><p>End-to-end decision-theoretic pipelines for managing applications in cities.</p></li>
+<li><p>Proactive approaches to mitigate the effects of service disruptions, network failures, and power outages.</p></li>
+</ol></li>
+<li><p>Secure and resilient cities:</p>
+<ol>
+<li><p>Interactions between privacy, security, resilience, reliability, and safety from both theoretical and operational perspectives.</p></li>
+<li><p>Robustness of forecasting and decision-making approaches against adversarial behavior.</p></li>
+<li><p>Data safety and privacy.</p></li>
+<li><p>Forecasting rare infrastructure failures. Predict major infrastructure failures before they happen.</p></li>
+</ol></li>
+<li><p>Open-source smart city datasets:</p>
+<ol>
+<li><p>We highly encourage submissions of high quality city level data along with detailed description, usage, and analysis for sharing with the community.</p></li>
+<li><p>Our goal is to setup a sub-site (on Kaggle, for example) exclusively for smart cities that can serve as a one-stop data source.</p></li>
+</ol></li>
+</ol>
 </ul>
 
 <br>
 
 
-  <h3>Participants<h3>
+  <h3>Organizers<h3>
   <div style="text-align:center">
   <a href="https://www.vanderbilt.edu/">
   <img src="images/vu.jpg" height="100px" width="20%" />
