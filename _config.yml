@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intelligent Systems for Smart Cities"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ayan Mukhopadhyay"
-description              : &description "Research Scientist,// Vanderbilt University"
+name                     : &name "insys-cpsweek"
+description              : &description ""
 url                      : https://insys-cpsweek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "insys-cpsweek.github.io"
+repository               : "insys-cpsweek/insys-cpsweek.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayan Mukhopadhyay"
+  name             : "StatResp"
   avatar           : "smokiesCropped.png"
-  bio              : "Research Scientist,<br> Vanderbilt University"
+  bio              : "Intelligent Systems for Smart Cities Workshop at CPS Week"
   location         : "Nashville, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1lNZTdMAAAAJ&hl=en"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayanmukhopadhyay"
+  github           : "insys-cpsweek"
   google_plus      :
   keybase          :
   instagram        :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - logos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
