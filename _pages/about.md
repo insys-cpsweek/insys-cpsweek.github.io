@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<b>StatResp</b> -- A toolchain for <b>stat</b>istical methods in emergency <b>resp</b>onse management
+<div style="text-align:center">
+  <img src="images/vu.jpg" height="500px" width="100%" />
+</div>
 
 
 Emergency response management (ERM) is a critical problem faced by communities across the globe. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, and distress calls. In prior art, as well as practice, incident forecasting and response are typically siloed by category and department, reducing effectiveness of prediction and precluding efficient coordination of resources. Further, most of these approaches are offline and fail to capture the dynamically changing environments under which critical emergency response occurs. As a consequence, statistical and algorithmic approaches to emergency response have received significant attention in the last few decades. Governments in urban areas are increasingly adopting methods that enable Smart Statistical Emergency Response, which are a combination of forecasting models and visualization tools to understand where and when incidents occur, and optimization approaches to allocate and dispatch responders. Please refer to a preprint of our [survey paper](https://arxiv.org/abs/2006.04200) for more information. 
