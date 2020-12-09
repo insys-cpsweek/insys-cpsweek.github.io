@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Profession Activities and Teaching"
+    url: /teaching/
+    
+  - title: "CV"
+    url: https://ayanmukhopadhyay.github.io/files/cv.pdf
