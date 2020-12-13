@@ -4,9 +4,7 @@ permalink: /cfp/
 author_profile: true
 ---
 
-<p>Call for Papers</p>
-
-We invite full papers (8 pages), short papers (4 pages), and concept papers (2 pages) on the following topics:
+We invite full papers (8 pages), short papers (4 pages), and concept papers (2 pages) on the following topics (all page limits include references):
 
 <ol>
 <li><p>Forecasting and analysis for city-scale CPS:</p>
