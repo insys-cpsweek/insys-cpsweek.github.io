@@ -52,23 +52,25 @@ There are many challenges pertaining to decision-making for CPS in smart cities.
 
  <div class="row">
   <div class="column">
-    <img src="images/Ayan.png" alt="ayan" style="width:100%" text-align="center">
-    <figcaption>Dr. Ayan Mukhopadyay (Vanderbilt University)</figcaption>
+    <a href="https://ayanmukhopadhyay.github.io">
+      <img src="images/Ayan.png" alt="ayan" height="300" width="300" text-align="center">
+      <figcaption>Dr. Ayan Mukhopadyay (Vanderbilt University)</figcaption>
+    </a>
   </div>
   <div class="column">
-    <img src="images/laszka.jpg" alt="aron" style="width:100%" text-align="center">
+    <img src="images/laszka.jpg" alt="aron" height="300" width="300" text-align="center">
     <figcaption>Dr. Aron Laszka (University of Houston)</figcaption>
   </div>
   <div class="column">
-    <img src="images/dubey.jpg" alt="dubey" style="width:100%" text-align="center">
+    <img src="images/dubey.jpg" alt="dubey" height="300" width="300" text-align="center">
     <figcaption>Dr. Abhishek Dubey (Vanderbilt)</figcaption>
   </div>
   <div class="column">
-    <img src="images/danny.jpg" alt="danny" style="width:100%" text-align="center">
+    <img src="images/danny.jpg" alt="danny" height="300" width="300" text-align="center">
     <figcaption>Dr. Danny Huang (NYU)</figcaption>
   </div>
   <div class="column">
-    <img src="images/ram.jpg" alt="ram" style="width:100%" text-align="center">
+    <img src="images/ram.jpg" alt="ram" height="300" width="300" text-align="center">
       <figcaption>Dr. Ram Rajagopal (Stanford University)</figcaption>
   </div>
 </div>
