@@ -48,30 +48,40 @@ There are many challenges pertaining to decision-making for CPS in smart cities.
 </ol>
 
 <br>
+<b>Workshop Organizers</b>
+<br>
 
 
  <div class="row">
   <div class="column">
     <a href="https://ayanmukhopadhyay.github.io">
       <img src="images/Ayan.png" alt="ayan" height="300" width="300" text-align="center">
-      <figcaption>Dr. Ayan Mukhopadyay (Vanderbilt University)</figcaption>
+      <figcaption style="text-align:center">Dr. Ayan Mukhopadyay <br> Vanderbilt University</figcaption>
     </a>
   </div>
   <div class="column">
-    <img src="images/laszka.jpg" alt="aron" height="300" width="300" text-align="center">
-    <figcaption>Dr. Aron Laszka (University of Houston)</figcaption>
+    <a href="https://aronlaszka.com/">
+      <img src="images/laszka.jpg" alt="aron" height="300" width="300" text-align="center">
+      <figcaption style="text-align:center">Dr. Aron Laszka <br> University of Houston</figcaption>
+    </a>
   </div>
   <div class="column">
-    <img src="images/dubey.jpg" alt="dubey" height="300" width="300" text-align="center">
-    <figcaption>Dr. Abhishek Dubey (Vanderbilt)</figcaption>
+    <a href="https://scopelab.ai/">
+      <img src="images/dubey.jpg" alt="dubey" height="300" width="300" text-align="center">
+      <figcaption style="text-align:center">Dr. Abhishek Dubey <br> Vanderbilt University</figcaption>
+    </a>
   </div>
   <div class="column">
-    <img src="images/danny.jpg" alt="danny" height="300" width="300" text-align="center">
-    <figcaption>Dr. Danny Huang (NYU)</figcaption>
+    <a href="https://hdanny.org/">
+      <img src="images/danny.jpg" alt="danny" height="300" width="300" text-align="center">
+      <figcaption style="text-align:center">Dr. Danny Huang <br> NYU</figcaption>
+    </a>
   </div>
   <div class="column">
-    <img src="images/ram.jpg" alt="ram" height="300" width="300" text-align="center">
-      <figcaption>Dr. Ram Rajagopal (Stanford University)</figcaption>
+    <a href="https://profiles.stanford.edu/ram-rajagopal">
+      <img src="images/ram.jpg" alt="ram" height="300" width="300" text-align="center">
+      <figcaption style="text-align:center">Dr. Ram Rajagopal <br> Stanford University</figcaption>
+    </a>
   </div>
 </div>
  
