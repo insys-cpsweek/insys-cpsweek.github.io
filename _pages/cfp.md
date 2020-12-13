@@ -4,7 +4,7 @@ permalink: /cfp/
 author_profile: true
 ---
 
-We invite full papers (8 pages), short papers (4 pages), and concept papers (2 pages) on the following topics (all page limits include references):
+We invite full papers (8 pages), short papers (4 pages), and concept papers (2 pages) on the following topics (all page limits include references). Authors can choose to include their papers in the ACM CPS Week proceedings or opt out. We welcome prior work published in conferences or journals.
 
 <ol>
 <li><p>Forecasting and analysis for city-scale CPS:</p>
