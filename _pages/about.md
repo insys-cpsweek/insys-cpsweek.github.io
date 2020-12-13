@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align:center">
-  <img src="images/insys_2.png" height="500px" width="100%" />
+  <img src="images/insys_2.png" height="400px" width="100%" />
 </div>
 
 <br>
