@@ -46,7 +46,6 @@ There are many challenges pertaining to decision-making for CPS in smart cities.
 <li>Our goal is to setup a sub-site (on Kaggle, for example) exclusively for smart cities that can serve as a one-stop data source.</li>
 </ol></li>
 </ol>
-</ul>
 
 <br>
 
