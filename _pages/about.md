@@ -20,17 +20,23 @@ There are many challenges pertaining to decision-making for CPS in smart cities.
 <b>Important Dates</b>
 <br>
 
-December 25: Call for papers out<br>
-Febraury 10: Submission Deadline<br>
-March 10: Author Notification<br>
-March 20: Camera-ready Submission Deadline<br>
+January 15: Call for papers out<br>
+Febraury 15: Submission Deadline<br>
+March 15: Author Notification<br>
+March 25: Camera-ready Submission Deadline<br>
 <br>
 
 <br>
 <b>Workshop Organizers</b>
 <br>
 
+1. <a href="https://ayanmukhopadhyay.github.io">Ayan Mukhopadhyay</a>, Vanderbilt University (Workshop Chair)<br>
+2. <a href="https://aronlaszka.com/">Aron Laszka</a>, University of Houston (Workshop Chair)<br>
+3. <a href="https://scopelab.ai/">Abhishek Dubey</a>, Vanderbilt University<br>
+4. <a href="https://profiles.stanford.edu/ram-rajagopal">Ram Rajagopal</a>, Stanford University<br>
+5. <a href="https://hdanny.org/">Danny Huang</a>, New York University<br>
 
+<!-- 
  <div class="row">
   <div class="column">
     <a href="https://ayanmukhopadhyay.github.io">
@@ -63,7 +69,7 @@ March 20: Camera-ready Submission Deadline<br>
     </a>
   </div>
 </div>
- 
+  -->
 
 
       
