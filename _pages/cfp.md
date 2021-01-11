@@ -22,7 +22,7 @@ We invite full papers (8 pages), short papers (4 pages), and concept papers (2 p
 <li>Ethical considerations in smart city applications.</li>
 <li>Validation and verification of intelligent systems deployed in smart cities.</li>
 </ol></li>
-<li><b>Equity and faireness in Smart Cities</b>
+<li><b>Equity and fairness in Smart Cities</b>
 <ol>
 <li>Evaluating and creating metrics for evaluating equity and fairness.</li>
 <li>Empirical results on fairness of existing algorithmic approaches deployed in cities.</li>
@@ -36,5 +36,8 @@ We invite full papers (8 pages), short papers (4 pages), and concept papers (2 p
 <li>Interactions between privacy, security, resilience, reliability, and safety from both theoretical and operational perspectives.</li>
 </ol></li>
 </ol>
+
+
+Authors can choose
 
 
