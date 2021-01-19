@@ -37,5 +37,23 @@ We invite full papers (8 pages), short papers (4 pages), and concept papers (2 p
 </ol></li>
 </ol>
 
+<br>
+
+<b>Submissions</b>
+
+HotCRP link for submission: <a href="https://cpsweek-insys21.hotcrp.com/">Link</a><br>
+
+We invite papers in the following categories:
+
+<ol>
+<li><b>Full papers (8 pages including references):</b> describing novel theoretical or algorithmic contributions in the topics mentioned above, or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper.
+</li>
+<li><b>Short papers (4 pages including references):</b> describing novel theoretical or algorithmic contributions in the topics mentioned above, or their deployment in practice. Both work in progress and recently published work will be considered. Such papers are similar to full papers but is particularly relevant for lessons learned through deployment or work in practice. 
+</li>
+<li><b> Position/Concept papers (2 pages including references):</b> describing open problems or neglected perspectives on the field, proposing ideas for the integration of intelligent systems and data-driven methods in smart cities, or summarizing the focus areas of a group working on intelligent systems for cities. 
+
+
+All submissions must be in English and follow the <a href="https://www.acm.org/publications/proceedings-template">ACM primary article template</a>. Submissions are <b>single-blind</b>. 
+
 
 
