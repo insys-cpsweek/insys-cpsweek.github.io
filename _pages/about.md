@@ -20,7 +20,7 @@ There are many challenges pertaining to decision-making for CPS in smart cities.
 <b>Important Dates</b>
 <br>
 
-Febraury 15: Submission Deadline<br>
+February 15: Submission Deadline<br>
 March 15: Author Notification<br>
 March 25: Camera-ready Submission Deadline<br>
 May 18: Workshop
